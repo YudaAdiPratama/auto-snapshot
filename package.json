@@ -13,5 +13,6 @@
   },
   "author": "YUDA",
   "license": "MIT",
-  "description": "auto snapshot generator for Vexanium node"
+  "description": "auto snapshot generator for Vexanium node",
+  "github": "https://github.com/YudaAdiPratama/auto-snapshot/tree/main"
 }
