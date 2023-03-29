@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.1",
+    "node-schedule": "^2.1.1"
+  },
+  "name": "auto-snapshot",
+  "version": "1.0.0",
+  "main": "autosnapshot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YUDA",
+  "license": "MIT",
+  "description": "auto snapshot generator for Vexanium node"
+}
